@@ -1,0 +1,40 @@
+body{
+    font-family: arial,sans-serif;
+    text-align: center;
+    background-color: #dbe7f8;
+    
+}
+
+input[type="text"]{
+    width: 20%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #FAEEEB;
+    box-sizing: border-box;
+}
+
+input[type=button]{
+    width: 20%;
+    background-color:#A0C5F9;
+    color: #292D34;
+    padding: 10px;
+    margin: 15px;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+
+}
+input[type=button]:hover{
+    background-color: #D6E7FE;
+}
+
+#formularioSoma{
+    margin: 250px 0;
+    text-align: center;
+    border-radius: 5px;
+    background-color:#F1F8FF;
+    padding: 20px;
+}
+
